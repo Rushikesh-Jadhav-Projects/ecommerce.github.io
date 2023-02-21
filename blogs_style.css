@@ -1,0 +1,187 @@
+nav{
+background-color: white;
+height:100px;
+width:100%;
+padding: 20px;
+box-shadow: 1px 1px 7px black;
+
+}
+img{
+width: 150px;
+height:70px;
+margin-left: 50px;
+}
+nav ul{
+
+text-align: center;
+float:center;
+margin-top:-60px;
+margin-right:-10px;
+
+}
+nav ul li{
+display:inline-block;
+padding: 10px;
+font-weight: bold;
+margin:5px; 
+font-family: 'Courier New', Courier, monospace;
+font-size: 20px;
+}
+nav ul li a{
+text-decoration: none;
+color:black;
+text-transform: uppercase;
+}
+nav ul li a:hover{
+background-color: lightblue;
+padding: 10px;
+border-radius: 7px;
+}
+.blogs{
+    height:1000px;
+    width:100%;
+    background-color: lightblue;
+    margin-top:-2%;
+    }
+    .blogs .blog_img img{
+    height:500px;
+    width:400px;
+    margin-top: 5%;
+    }
+    .blogs .blog_content p{
+    margin-left: 3%;
+    margin-right:70%;
+    padding: 20px;
+    font-size: 15px;
+    }
+    
+    .blogs .blog_img1 img{
+    height:500px;
+    width:400px;
+    margin-left:35%;
+    margin-top:-66%;
+    }
+    .blogs .blog_img2 img{
+    height:500px;
+    width:400px;
+    margin-left:70%;
+    margin-top:-68%;
+    }
+    .blogs h2{
+    text-align: center;
+    padding: 20px;
+    font-size:40px;
+    }
+    .blogs .blog_content1 p{
+    margin-left: 33%;
+    margin-right:40%;
+    padding: 20px;
+    font-size: 15px;
+    margin-top:-17%;
+    }
+    .blogs .blog_content2 p{
+    margin-left: 68%;
+    margin-right:5%;
+    padding: 20px;
+    font-size: 15px;
+    margin-top:-17%;
+    }
+    .blogs .blog_posted{
+    margin-left:80px;
+    }
+    .blogs .blog_posted1{
+    margin-left:35%;
+    }
+    .blogs .blog_posted2{
+    margin-left:70%;
+    margin-top:-10px;
+    }
+footer{
+background-color: lightblue;
+padding: 50px;
+}
+footer .pages{
+text-align:center ;
+}
+footer .pages h3{
+color:black;
+font-size: 20px;
+font-family:'Courier New', Courier, monospace;
+padding: 5px;
+font-weight: bold;
+}
+footer .pages a{
+text-decoration: none;
+margin:10px;
+color:orange;
+font-size: 15px;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+footer .pages a:hover{
+color:blue;
+
+}
+footer .doc{
+text-align:center ;
+}
+footer .doc h3{
+color:black;
+font-size: 20px;
+font-family: 'Courier New', Courier, monospace;
+padding: 5px;
+font-weight: bold;
+}
+footer .doc a{
+text-decoration: none;
+margin:10px;
+color:orange;
+font-size: 15px;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+footer .doc a:hover{
+color:blue;
+
+}
+footer .social{
+text-align:center ;
+}
+footer .social h3{
+color:black;
+font-size: 20px;
+font-family: 'Courier New', Courier, monospace;
+padding: 5px;
+font-weight: bolder;
+}
+footer .social a{
+text-decoration: none;
+margin:10px;
+color:orange;
+font-size: 30px;
+font-family: 'Courier New', Courier, monospace;
+font-weight: bold;
+}
+footer .social a:hover{
+color:blue;
+
+}
+footer .contact{
+text-align:center;
+}
+footer .contact h3{
+color:black;
+font-size: 20px;
+font-family: 'Courier New', Courier, monospace;
+padding: 5px;
+font-weight: bold;
+}
+footer .contact a{
+text-decoration: none;
+text-decoration: none;
+margin:10px;
+color:orange;
+font-size: 30px;
+font-family: 'Courier New', Courier, monospace;
+}
+footer .contact a:hover{
+color:blue;
+}
